@@ -6,7 +6,7 @@ Hi! I am a fourth-year PhD student in Statistics at [UPenn](https://statistics.w
 
 I am interested in probability theory with focus on statistical mechanics and random geometry. In particular, I have worked on percolation theory, Schramm-Loewner evolution, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
-My email is zijie123 at wharton.upenn.edu. Here is my [cv](cv.pdf).
+My email is zijie123 at wharton.upenn.edu. Here is my [CV](cv.pdf).
 
 ## Articles
 
