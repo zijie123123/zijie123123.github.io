@@ -6,7 +6,7 @@ Hi! I am a fourth year PhD student in Statistics at [UPenn](https://statistics.w
 
 My research area lies in probability theory and mathematical physics. My recent work focuses on random geometry and statistical physics, including percolation, SLE, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
-My email is zijie123 at wharton.upenn.edu. Here is my cv.
+My email is zijie123 at wharton.upenn.edu. Here is my [cv](https://github.com/zijie123123/zijie123123.github.io/blob/master/cv.pdf).
 
 ## Articles
 
