@@ -17,28 +17,34 @@ with Jian Ding and Ewain Gwynne. [arXiv:2410.22075](https://arxiv.org/abs/2410.2
 with Jian Ding and Peng Yang. [arXiv:2410.20457](https://arxiv.org/abs/2410.20457v1).
 
 **The bulk one-arm exponent for the CLE percolations**
-with Haoyu Liu, Xin Sun and Pu Yu. [arXiv:2410.12724](https://arxiv.org/abs/2410.12724)
+with Haoyu Liu, Xin Sun and Pu Yu. [arXiv:2410.12724](https://arxiv.org/abs/2410.12724).
 
 **Backbone exponent and annulus crossing probability for planar percolation**
-with Pierre Nolin, Wei Qian and Xin Sun. [arXiv:2410.06419](https://arxiv.org/abs/2410.06419)
+with Pierre Nolin, Wei Qian and Xin Sun. [arXiv:2410.06419](https://arxiv.org/abs/2410.06419).
 
 **Annulus crossing formulae for critical planar percolation**
-with Xin Sun and Shengjing Xu. [arXiv:2410.04767](https://arxiv.org/abs/2410.04767)
+with Xin Sun and Shengjing Xu. [arXiv:2410.04767](https://arxiv.org/abs/2410.04767).
 
 **Tightness of exponential metrics for log-correlated Gaussian fields in arbitrary dimension**
-with Jian Ding and Ewain Gwynne. [arXiv:2310.03996](https://arxiv.org/abs/2310.03996)
+with Jian Ding and Ewain Gwynne. [arXiv:2310.03996](https://arxiv.org/abs/2310.03996).
 
 **Backbone exponent for two-dimensional percolation**
-with Pierre Nolin, Wei Qian and Xin Sun. [arXiv:2309.05050](https://arxiv.org/abs/2309.05050)
+with Pierre Nolin, Wei Qian and Xin Sun. [arXiv:2309.05050](https://arxiv.org/abs/2309.05050).
 
 **Boundary touching probability and nested-path exponent for non-simple CLE**
-with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (to appear). [arXiv:2401.15904](https://arxiv.org/abs/2401.15904)
+with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (to appear). [arXiv:2401.15904](https://arxiv.org/abs/2401.15904).
 
 **Sharp asymptotics for arm probabilities in critical planar percolation**
-with Hang Du, Yifan Gao and Xinyi Li. _Communications in Mathematical Physics_ (2024). [Journal](https://link.springer.com/article/10.1007/s00220-024-05028-0)
+with Hang Du, Yifan Gao and Xinyi Li. _Communications in Mathematical Physics_ (2024). [Journal](https://link.springer.com/article/10.1007/s00220-024-05028-0).
 
 **On large deviations and intersection of random interlacements**
-with Xinyi Li. _Bernoulli_ (2024). [Journal](https://projecteuclid.org/journals/bernoulli/volume-30/issue-3/On-large-deviations-and-intersection-of-random-interlacements/10.3150/23-BEJ1666.short)
+with Xinyi Li. _Bernoulli_ (2024). [Journal](https://projecteuclid.org/journals/bernoulli/volume-30/issue-3/On-large-deviations-and-intersection-of-random-interlacements/10.3150/23-BEJ1666.short).
+
+**Long range order for random field Ising and Potts models**
+with Jian Ding. _Communications in Pure and Applied Mathematics_ (2024). [Journal](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22127).
+
+**On the percolative properties of the intersection of two independent interlacements**
+_ALEA_ (2021). [Journal](https://alea.math.cnrs.fr/articles/v18/18-40.pdf).
 
 *   
 *   
@@ -51,7 +57,7 @@ with Xinyi Li. _Bernoulli_ (2024). [Journal](https://projecteuclid.org/journals/
 *   
 *   
 
-Coauthors: [Morris Ang](https://sites.google.com/ucsd.edu/moang/)
+Coauthors: [Morris Ang](https://sites.google.com/ucsd.edu/moang/), [Hang Du]()
 
 There should be whitespace between paragraphs.
 
