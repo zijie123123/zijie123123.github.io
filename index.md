@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Hi! I am a fourth year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](https://web.sas.upenn.edu/xinsun/).
+Hi! I am a fourth-year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](https://web.sas.upenn.edu/xinsun/).
 
-My research area lies in probability theory and mathematical physics. My recent work focuses on random geometry and statistical physics, including percolation, SLE, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
+I am interested in probability theory with focus on statistical mechanics and random geometry. Topics I have worked on include percolation theory, Schramm-Loewner evolution, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
 My email is zijie123 at wharton.upenn.edu. Here is my [cv](cv.pdf).
 
