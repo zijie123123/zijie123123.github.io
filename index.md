@@ -29,7 +29,7 @@ with Xin Sun and Shengjing Xu. [arXiv:2410.04767](https://arxiv.org/abs/2410.047
 with Jian Ding and Ewain Gwynne. [arXiv:2310.03996](https://arxiv.org/abs/2310.03996).
 
 **Backbone exponent for two-dimensional percolation** <br>
-with Pierre Nolin, Wei Qian and Xin Sun. [arXiv:2309.05050](https://arxiv.org/abs/2309.05050). Reported in [Quanta Magazine](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/) and [Journal club for condensed matter physics.](https://www.condmatjclub.org/jccm_december_2023_01/).
+with Pierre Nolin, Wei Qian and Xin Sun. [arXiv:2309.05050](https://arxiv.org/abs/2309.05050). Reported in [Quanta Magazine](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/) and [Journal club for condensed matter physics](https://www.condmatjclub.org/jccm_december_2023_01/).
 
 **Boundary touching probability and nested-path exponent for non-simple CLE** <br>
 with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (to appear). [arXiv:2401.15904](https://arxiv.org/abs/2401.15904).
