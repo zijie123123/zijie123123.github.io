@@ -6,6 +6,26 @@ Hi! I am a fourth year PhD student in Statistics at [UPenn](https://statistics.w
 
 My research area lies in probability theory and mathematical physics. My recent work focuses on random geometry and statistical physics, including percolation, SLE, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
+My email is zijie123 at wharton.upenn.edu. Here is my cv.
+
+## Articles
+
+**Percolation of thick points of the log-correlated Gaussian field in high dimensions**
+
+with Jian Ding and Ewain Gwynne. Preprint, arXiv:2410.22075.
+
+*   
+*   
+*   
+*   
+*   
+*   
+*   
+*   
+*  
+*   
+*   
+
 There should be whitespace between paragraphs.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
