@@ -11,8 +11,7 @@ My email is zijie123 at wharton.upenn.edu. Here is my cv.
 ## Articles
 
 **Percolation of thick points of the log-correlated Gaussian field in high dimensions**
-
-with Jian Ding and Ewain Gwynne. Preprint, arXiv:2410.22075.
+with Jian Ding and Ewain Gwynne. [arXiv:2410.22075](https://arxiv.org/abs/2410.22075).
 
 *   
 *   
@@ -25,6 +24,8 @@ with Jian Ding and Ewain Gwynne. Preprint, arXiv:2410.22075.
 *  
 *   
 *   
+
+Coauthors: [Morris Ang](https://sites.google.com/ucsd.edu/moang/)
 
 There should be whitespace between paragraphs.
 
