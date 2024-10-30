@@ -2,7 +2,11 @@
 layout: default
 ---
 
-Hi, I am a 
+Hi! I am a fourth year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu) 
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
