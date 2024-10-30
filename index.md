@@ -13,7 +13,11 @@ My email is zijie123 at wharton.upenn.edu. Here is my cv.
 **Percolation of thick points of the log-correlated Gaussian field in high dimensions**
 with Jian Ding and Ewain Gwynne. [arXiv:2410.22075](https://arxiv.org/abs/2410.22075).
 
-*   
+**Dynamical random field Ising model at zero temperature**
+with Jian Ding and Peng Yang. [arXiv:2410.20457](https://arxiv.org/abs/2410.20457v1).
+
+**1**
+
 *   
 *   
 *   
