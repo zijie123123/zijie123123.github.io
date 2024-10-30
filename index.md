@@ -42,7 +42,7 @@ with Hang Du, Yifan Gao and Xinyi Li. _Communications in Mathematical Physics_ (
 with Xinyi Li. _Bernoulli_ (2024). [Journal](https://projecteuclid.org/journals/bernoulli/volume-30/issue-3/On-large-deviations-and-intersection-of-random-interlacements/10.3150/23-BEJ1666.short).
 
 **Long range order for random field Ising and Potts models** <br>
-with Jian Ding. _Communications in Pure and Applied Mathematics_ (2024). [Journal](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22127).
+with Jian Ding. _Communications on Pure and Applied Mathematics_ (2024). [Journal](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22127).
 
 **On the percolative properties of the intersection of two independent interlacements** <br>
 _ALEA_ (2021). [Journal](https://alea.math.cnrs.fr/articles/v18/18-40.pdf).
