@@ -8,7 +8,7 @@ sass:
 theme: jekyll-theme-primer
 
 github:
-  private: false
+  private: true
   license:
     name: MIT
   source:
