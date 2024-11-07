@@ -14,7 +14,7 @@ My email is zijie123 at wharton.upenn.edu. Here is my [CV](cv.pdf).
 with Jian Ding and Ewain Gwynne. [arXiv:2410.22075](https://arxiv.org/abs/2410.22075).
 
 **Dynamical random field Ising model at zero temperature** <br>
-with Jian Ding and Peng Yang. [arXiv:2410.20457](https://arxiv.org/abs/2410.20457v1).
+with Jian Ding and Peng Yang. [arXiv:2410.20457](https://arxiv.org/abs/2410.20457).
 
 **The bulk one-arm exponent for the CLE percolations** <br>
 with Haoyu Liu, Xin Sun and Pu Yu. [arXiv:2410.12724](https://arxiv.org/abs/2410.12724).
