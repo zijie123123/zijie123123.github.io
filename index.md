@@ -2,13 +2,16 @@
 layout: default
 ---
 
-Hi! I am a fourth-year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](https://web.sas.upenn.edu/xinsun/).
+Hi! I am a fourth-year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](http://faculty.bicmr.pku.edu.cn/~xinsun/).
 
 I am interested in probability theory with focus on statistical mechanics and random geometry. In particular, I have worked on percolation theory, Schramm-Loewner evolution, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
 My email is zijie123 at wharton.upenn.edu. Here is my [CV](cv.pdf).
 
 ## Articles
+
+**Bounds on the distance exponent for higher-dimensional Liouville first passage percolation** <br>
+with Andres A. Contreras Hip. [arXiv:2504.09141](https://arxiv.org/abs/2504.09141).
 
 **Mixing rate exponent of planar Fortuin-Kasteleyn percolation** <br>
 with Haoyu Liu and Baojun Wu. [arXiv:2502.09950](https://arxiv.org/abs/2502.09950).
@@ -50,4 +53,4 @@ with Jian Ding. _Communications on Pure and Applied Mathematics_ (2024). [Journa
 **On the percolative properties of the intersection of two independent interlacements** <br>
 _ALEA_ (2021). [Journal](https://alea.math.cnrs.fr/articles/v18/18-40.pdf).
 
-Coauthors: [Morris Ang](https://sites.google.com/ucsd.edu/moang/), [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html), [Hang Du](https://hangdu2000.github.io/MyHomePage/), [Yifan Gao](https://gao-yifan.github.io/), [Ewain Gwynne](https://math.uchicago.edu/~ewain/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), [Haoyu Liu](https://lhy0629.github.io/), [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), [Wei Qian](https://qian.perso.math.cnrs.fr/), [Xin Sun](https://web.sas.upenn.edu/xinsun/), Baojun Wu, Shengjing Xu, Peng Yang, [Pu Yu](https://math.mit.edu/~puyu1516/)
+Coauthors: [Morris Ang](https://sites.google.com/ucsd.edu/moang/), [Andres A. Contreras Hip](https://sites.google.com/view/andrescontreraship/home), [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html), [Hang Du](https://hangdu2000.github.io/MyHomePage/), [Yifan Gao](https://gao-yifan.github.io/), [Ewain Gwynne](https://math.uchicago.edu/~ewain/), [Xinyi Li](http://faculty.bicmr.pku.edu.cn/~xinyili/), [Haoyu Liu](https://lhy0629.github.io/), [Pierre Nolin](https://www.cityu.edu.hk/stfprofile/bpmnolin.htm), [Wei Qian](https://qian.perso.math.cnrs.fr/), [Xin Sun](https://web.sas.upenn.edu/xinsun/), Baojun Wu, Shengjing Xu, Peng Yang, [Pu Yu](https://math.mit.edu/~puyu1516/)
