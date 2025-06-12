@@ -35,7 +35,7 @@ with Pierre Nolin, Wei Qian and Xin Sun. _Physical Review Letters_ (2025). [Jour
 with Xin Sun and Shengjing Xu. [arXiv:2410.04767](https://arxiv.org/abs/2410.04767).
 
 **Boundary touching probability and nested-path exponent for non-simple CLE** <br>
-with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (2025). [Journal](https://projecteuclid.org/journals/annals-of-probability/volume-53/issue-3/Boundary-touching-probability-and-nested-path-exponent-for-nonsimple-CLE/10.1214/24-AOP1722.short) [arXiv:2401.15904](https://arxiv.org/abs/2401.15904).
+with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (2025). [Journal](https://projecteuclid.org/journals/annals-of-probability/volume-53/issue-3/Boundary-touching-probability-and-nested-path-exponent-for-nonsimple-CLE/10.1214/24-AOP1722.short). [arXiv:2401.15904](https://arxiv.org/abs/2401.15904).
 
 **Tightness of exponential metrics for log-correlated Gaussian fields in arbitrary dimension** <br>
 with Jian Ding and Ewain Gwynne. [arXiv:2310.03996](https://arxiv.org/abs/2310.03996).
