@@ -2,13 +2,16 @@
 layout: default
 ---
 
-Hi! I am a fourth-year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](http://faculty.bicmr.pku.edu.cn/~xinsun/).
+Hi! I am a rising fifth-year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](http://faculty.bicmr.pku.edu.cn/~xinsun/).
 
 I am interested in probability theory with focus on statistical mechanics and random geometry. In particular, I have worked on percolation theory, Schramm-Loewner evolution, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
 My email is zijie123 at wharton.upenn.edu. Here is my [CV](cv.pdf).
 
 ## Articles
+
+**Schramm-Loewner evolution contains a topological Sierpiński carpet when $\kappa$ is close to 8** <br>
+with Haoyu Liu. [arXiv:2506.09609](https://arxiv.org/abs/2506.09609).
 
 **Bounds on the distance exponent for higher-dimensional Liouville first passage percolation** <br>
 with Andres A. Contreras Hip. [arXiv:2504.09141](https://arxiv.org/abs/2504.09141).
@@ -32,7 +35,7 @@ with Pierre Nolin, Wei Qian and Xin Sun. _Physical Review Letters_ (2025). [Jour
 with Xin Sun and Shengjing Xu. [arXiv:2410.04767](https://arxiv.org/abs/2410.04767).
 
 **Boundary touching probability and nested-path exponent for non-simple CLE** <br>
-with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (to appear). [arXiv:2401.15904](https://arxiv.org/abs/2401.15904).
+with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (2025). [Journal](https://projecteuclid.org/journals/annals-of-probability/volume-53/issue-3/Boundary-touching-probability-and-nested-path-exponent-for-nonsimple-CLE/10.1214/24-AOP1722.short) [arXiv:2401.15904](https://arxiv.org/abs/2401.15904).
 
 **Tightness of exponential metrics for log-correlated Gaussian fields in arbitrary dimension** <br>
 with Jian Ding and Ewain Gwynne. [arXiv:2310.03996](https://arxiv.org/abs/2310.03996).
