@@ -28,7 +28,7 @@ with Haoyu Liu and Baojun Wu. [arXiv:2502.09950](https://arxiv.org/abs/2502.0995
 with Jian Ding and Ewain Gwynne. [arXiv:2410.22075](https://arxiv.org/abs/2410.22075).
 
 **Dynamical random field Ising model at zero temperature** <br>
-with Jian Ding and Peng Yang. [arXiv:2410.20457](https://arxiv.org/abs/2410.20457). Accepted by _Probability Theory and Related Fields_.
+with Jian Ding and Peng Yang. Accepted by _Probability Theory and Related Fields_. [arXiv:2410.20457](https://arxiv.org/abs/2410.20457).
 
 **The bulk one-arm exponent for the CLE percolations** <br>
 with Haoyu Liu, Xin Sun and Pu Yu. [arXiv:2410.12724](https://arxiv.org/abs/2410.12724).
