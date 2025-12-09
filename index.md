@@ -12,6 +12,9 @@ My email is zijie123 at wharton.upenn.edu. Here is my [CV](cv.pdf).
 
 ## Articles
 
+**Weak exponential metrics for high-dimensional log-correlated Gaussian fields** <br>
+with Andres A. Contreras Hip. [arXiv:2512.06292](https://arxiv.org/abs/2512.06292).
+
 **Three-point connectivity constant for $q$-state Potts spin clusters** <br>
 with Gefei Cai, Haoyu Liu and Baojun Wu. [arXiv:2510.05850](https://arxiv.org/abs/2510.05850).
 
