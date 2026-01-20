@@ -8,8 +8,6 @@ I am interested in probability theory with focus on statistical mechanics and ra
 
 My email is zijie123 at wharton.upenn.edu. Here is my [CV](cv.pdf).
 
-**I am on the job market in fall 2025.**
-
 ## Articles
 
 **Weak exponential metrics for high-dimensional log-correlated Gaussian fields** <br>
