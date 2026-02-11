@@ -4,7 +4,7 @@ layout: default
 
 Hi! I am a fifth-year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](http://faculty.bicmr.pku.edu.cn/~xinsun/).
 
-I am interested in probability theory with focus on statistical mechanics, random geometry, and conformal field theory. In particular, I have worked on percolation theory, Schramm-Loewner evolution, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
+I am interested in probability theory with focus on statistical mechanics, conformal field theory, and random geometry. In particular, I have worked on percolation theory, Schramm-Loewner evolution, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
 My email is zijie123 at wharton.upenn.edu. Here is my [CV](cv.pdf).
 
