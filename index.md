@@ -26,7 +26,7 @@ with Andres A. Contreras Hip. [arXiv:2504.09141](https://arxiv.org/abs/2504.0914
 with Haoyu Liu and Baojun Wu. [arXiv:2502.09950](https://arxiv.org/abs/2502.09950).
 
 **Percolation of thick points of the log-correlated Gaussian field in high dimensions** <br>
-with Jian Ding and Ewain Gwynne. Accepted by _Advances in Mathematics_. [arXiv:2410.22075](https://arxiv.org/abs/2410.22075).
+with Jian Ding and Ewain Gwynne. _Advances in Mathematics_ (2026). [Journal](https://www.sciencedirect.com/science/article/pii/S000187082600068X). [arXiv:2410.22075](https://arxiv.org/abs/2410.22075).
 
 **Dynamical random field Ising model at zero temperature** <br>
 with Jian Ding and Peng Yang. _Probability Theory and Related Fields_ (2025). [Journal](https://link.springer.com/article/10.1007/s00440-025-01456-8). [arXiv:2410.20457](https://arxiv.org/abs/2410.20457).
