@@ -23,7 +23,7 @@ with Haoyu Liu. _Proceedings of the London Mathematical Society_ (2026). [Journa
 with Andres A. Contreras Hip. [arXiv:2504.09141](https://arxiv.org/abs/2504.09141).
 
 **Mixing rate exponent of planar Fortuin-Kasteleyn percolation** <br>
-with Haoyu Liu and Baojun Wu. _Communications in Mathematical Physics_ (to appear). [arXiv:2502.09950](https://arxiv.org/abs/2502.09950).
+with Haoyu Liu and Baojun Wu. _Communications in Mathematical Physics_ (2026). [Journal](https://link.springer.com/article/10.1007/s00220-026-05693-3) [arXiv:2502.09950](https://arxiv.org/abs/2502.09950).
 
 **Percolation of thick points of the log-correlated Gaussian field in high dimensions** <br>
 with Jian Ding and Ewain Gwynne. _Advances in Mathematics_ (2026). [Journal](https://www.sciencedirect.com/science/article/pii/S000187082600068X). [arXiv:2410.22075](https://arxiv.org/abs/2410.22075).
