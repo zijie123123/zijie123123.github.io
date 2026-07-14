@@ -17,7 +17,7 @@ with Andres A. Contreras Hip. [arXiv:2512.06292](https://arxiv.org/abs/2512.0629
 with Gefei Cai, Haoyu Liu and Baojun Wu. [arXiv:2510.05850](https://arxiv.org/abs/2510.05850).
 
 **Schramm-Loewner evolution contains a topological Sierpiński carpet when $\kappa$ is close to 8** <br>
-with Haoyu Liu. _Proceedings of the London Mathematical Society_ (to appear). [arXiv:2506.09609](https://arxiv.org/abs/2506.09609).
+with Haoyu Liu. _Proceedings of the London Mathematical Society_ (2026). [Journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/plms.70183) [arXiv:2506.09609](https://arxiv.org/abs/2506.09609).
 
 **Bounds on the distance exponent for higher-dimensional Liouville first passage percolation** <br>
 with Andres A. Contreras Hip. [arXiv:2504.09141](https://arxiv.org/abs/2504.09141).
@@ -32,7 +32,7 @@ with Jian Ding and Ewain Gwynne. _Advances in Mathematics_ (2026). [Journal](htt
 with Jian Ding and Peng Yang. _Probability Theory and Related Fields_ (2025). [Journal](https://link.springer.com/article/10.1007/s00440-025-01456-8). [arXiv:2410.20457](https://arxiv.org/abs/2410.20457).
 
 **The bulk one-arm exponent for the CLE percolations** <br>
-with Haoyu Liu, Xin Sun and Pu Yu. _Proceedings of the London Mathematical Society_ (to appear). [arXiv:2410.12724](https://arxiv.org/abs/2410.12724).
+with Haoyu Liu, Xin Sun and Pu Yu. _Proceedings of the London Mathematical Society_ (2026). [Journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/plms.70176) [arXiv:2410.12724](https://arxiv.org/abs/2410.12724).
 
 **Backbone exponent and annulus crossing probability for planar percolation** <br>
 with Pierre Nolin, Wei Qian and Xin Sun. _Physical Review Letters_ (2025). [Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.117101). [arXiv:2410.06419](https://arxiv.org/abs/2410.06419).
@@ -44,7 +44,7 @@ with Xin Sun and Shengjing Xu. [arXiv:2410.04767](https://arxiv.org/abs/2410.047
 with Morris Ang, Xin Sun and Pu Yu. _Annals of Probability_ (2025). [Journal](https://projecteuclid.org/journals/annals-of-probability/volume-53/issue-3/Boundary-touching-probability-and-nested-path-exponent-for-nonsimple-CLE/10.1214/24-AOP1722.short). [arXiv:2401.15904](https://arxiv.org/abs/2401.15904).
 
 **Tightness of exponential metrics for log-correlated Gaussian fields in arbitrary dimension** <br>
-with Jian Ding and Ewain Gwynne. [arXiv:2310.03996](https://arxiv.org/abs/2310.03996).
+with Jian Ding and Ewain Gwynne. _Annals of Probability_ (to appear). [arXiv:2310.03996](https://arxiv.org/abs/2310.03996).
 
 **Backbone exponent for two-dimensional percolation** <br>
 with Pierre Nolin, Wei Qian and Xin Sun. [arXiv:2309.05050](https://arxiv.org/abs/2309.05050). <br>
