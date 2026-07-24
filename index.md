@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I am a fifth-year PhD student in Statistics at [UPenn](https://statistics.wharton.upenn.edu). My advisors are [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](http://faculty.bicmr.pku.edu.cn/~xinsun/).
+Hi! Starting in fall 2026, I will be a postdoctoral researcher at the University of Geneva working with [Hugo Duminil-Copin](https://www.unige.ch/~duminil/publi.html). I received my PhD in Statistics from UPenn under the supervision of [Jian Ding](https://www.math.pku.edu.cn/teachers/dingjian/index.html) and [Xin Sun](http://faculty.bicmr.pku.edu.cn/~xinsun/).
 
 I am interested in probability theory with focus on statistical mechanics, conformal field theory, and random geometry. In particular, I have worked on percolation theory, Schramm-Loewner evolution, log-correlated Gaussian fields, Liouville quantum gravity, and disordered spin models.
 
